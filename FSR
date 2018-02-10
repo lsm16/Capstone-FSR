@@ -57,7 +57,7 @@ void loop() {
   Serial.print(sensorValue3);   // print ADC value of analog reading
   Serial.print('\n');  */
 
-   delay(1000);
+   delay(100);
    
      /*int sensorNumber = 0;
   
