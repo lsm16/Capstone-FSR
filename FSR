@@ -48,6 +48,8 @@ void loop() {
     Serial.print(sensorValues[i]);
     
     i++;
-  } Serial.print('\n'); delay(1000);
+  } 
+  Serial.print('\n'); 
+  delay(1000);
 }
 
